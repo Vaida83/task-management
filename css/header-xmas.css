@@ -1,0 +1,13 @@
+.main-header {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px ;
+}
+.main-header > .logo{
+
+}
+
+.main-heder > .btn {
+    
+}
